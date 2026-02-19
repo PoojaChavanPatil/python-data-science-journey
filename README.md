@@ -1,2 +1,13 @@
-# python-data-science-journey
-This repository documents my structured learning journey in Python for Data Science. It includes hands-on labs, exploratory analysis, statistical testing, and version-controlled project work.
+# Python Data Science Journey
+
+This repository tracks my structured learning process in Python for Data Science through a Coursera course.
+
+## Goals
+- Build strong Python fundamentals
+- Master Pandas and NumPy
+- Perform exploratory data analysis
+- Conduct statistical testing and A/B testing
+- Learn proper version control with GitHub
+
+## Current Progress
+Module 1 – Environment setup and Python basics (In Progress)
